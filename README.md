@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiteshRijal
-- 👀 I’m interested in forntend
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on frontend
+- 👀 I’m interested in webdevelopment
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on project development
 - 📫 How to reach me rijalritesh32@gmail.com
 
 <!---
