@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RiteshRijal
-- 👀 I’m interested in webdevelopment
+- 👀 I’m interested in Software developer
+- 🌱 I have 3 years of working as a Software Developer using Java as the back-end.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on project development
 - 📫 How to reach me rijalritesh32@gmail.com
